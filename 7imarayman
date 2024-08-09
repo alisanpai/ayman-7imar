@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أيمن حمار</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>مرحباً بك في موقع أيمن حمار
+    </h1>
+    </header>
+    <div class="container">
+        <p> أيمن الحمار، في البرية يسير  
+بخطىً ثابتة، وصبره كبير  
+كأن الحياة سراجٌ في عينيه  
+يحمل هموم الأرض، دون تذمر أو قير
+
+في الوادي الأخضر، يحلّق بين الزهور  
+يعرف طعم الشهد، ونسيم السحر  
+صديق الوادي، وصديق الفلاح  
+أيامه تمضي، بهدوء وسراح
+
+يا أيمن، فيك من الصبر ما يكفي  
+لتروي حكايات الأرض، وتبهج القلب الرفيف  
+تظل رمزًا للثبات والوفاء  
+في كل درب.</p>
+    </div>
+    <footer>
+        <p>© 2024 أيمن حمار. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
